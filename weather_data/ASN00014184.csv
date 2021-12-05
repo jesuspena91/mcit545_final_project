@@ -1,0 +1,5 @@
+"STATION","DATE","LATITUDE","LONGITUDE","ELEVATION","NAME","DP01","DP01_ATTRIBUTES","DP10","DP10_ATTRIBUTES","DP1X","DP1X_ATTRIBUTES","EMXP","EMXP_ATTRIBUTES","PRCP","PRCP_ATTRIBUTES"
+"ASN00014184","1969","-13.1667","131.1","170.0","ADELAIDE RIVER 67 MILE, AS","        83","a","        64","a","        15","a"," 192.5"," ,a,0206, ","   1365.0"," ,a"
+"ASN00014184","1970","-13.1667","131.1","170.0","ADELAIDE RIVER 67 MILE, AS","        68","a","        51","a","        13","a","  64.3"," ,a,0329, ","    976.1"," ,a"
+"ASN00014184","1971","-13.1667","131.1","170.0","ADELAIDE RIVER 67 MILE, AS","       107","a","        79","a","        21","a","  87.6"," ,a,0204, ","   1727.9"," ,a"
+"ASN00014184","1972","-13.1667","131.1","170.0","ADELAIDE RIVER 67 MILE, AS","        81","a","        66","a","        17","a","  72.4"," ,a,0316, ","   1195.5"," ,a"
